@@ -1,0 +1,112 @@
+.section-1 img {
+  width: 100%;
+}
+.section-1 {
+  background-color: rgb(255, 251, 240);
+  /* background-color: rgba(244, 209, 161, 0.2); */
+}
+.nav-top {
+  /* background-color: rgba(244, 209, 161, 0.2); */
+}
+.button-first {
+  background-color: #a4bc46;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: 500;
+  border: none;
+}
+.top-span {
+  color: #fabe4c;
+}
+.top-h1 {
+  font-size: 66px;
+}
+
+.top-image-1 {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+.product-1 {
+  border-radius: 20px;
+}
+.card-price {
+  color: #fabe4c;
+  font-size: 45px;
+}
+.card-button {
+  background-color: #a4bc46;
+}
+.all-card {
+  border: none;
+}
+.titel {
+  color: #363958;
+}
+
+.card-box {
+  height: 150px;
+  width: 820px;
+}
+.last-section-h2 {
+  color: #363958;
+}
+p {
+  color: gray;
+  font-size: 18px;
+  font-weight: 500;
+}
+.last-section {
+  background-color: #fabe4c;
+}
+.progress {
+  width: 500px;
+  height: auto;
+  margin-top: 10px;
+  font-size: 30px;
+}
+.progress-1 {
+  width: 550px;
+  height: auto;
+  margin: auto;
+}
+.progress-bar {
+  height: 40px;
+}
+.input-heading {
+  font-size: 35px;
+  font-weight: 700;
+  color: blueviolet;
+}
+.input-1 {
+  width: 400px;
+  height: 40px;
+}
+.input-2 {
+  margin-top: 15px;
+  width: 400px;
+  height: 40px;
+  background-color: mediumspringgreen;
+  font-size: 20px;
+  font-weight: 700;
+  color: mintcream;
+}
+footer {
+  text-align: center;
+  margin: 20px;
+}
+.card-body h1 {
+  color: navy;
+}
+.navbar-nav a {
+  font-size: 24px;
+  font-weight: 700;
+}
+#subscribe {
+  border-radius: 10px;
+  box-sizing: 10px 10px 20px;
+}
+.last-section {
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px;
+}
